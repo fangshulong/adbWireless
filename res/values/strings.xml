@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-	<string name="app_name">adbWireless</string>
-	<string name="top_text">Welcome to adbWireless, you can enable or disable
-		the wireless connection ADB interface by pressing the big button.
+	<string name="app_name">WiFi-调试</string>
+	<string name="top_text">
+        欢迎使用无线adb，点击按钮即可打开
 	</string>
 
-	<string name="footer_text_1">adbWireless is on, from your computer run:</string>
+	<string name="footer_text_1">adb无线已打开, 执行以下命令既可连接:</string>
 	<string name="footer_text_2"></string>
-	<string name="footer_text_3">And you can use ADB as if connected by USB</string>
-	<string name="footer_text_off">adbWireless is off</string>
+	<string name="footer_text_3">WiFi连接adb与USB连接无本质区别</string>
+	<string name="footer_text_off">WiFi连接已关闭</string>
 
 	<string name="button_close">Close</string>
 	<string name="button_exit">Exit</string>
